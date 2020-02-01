@@ -1,5 +1,4 @@
-%MichikoFeehan  
-%May 3, 2017  
+ 
 %Numerical Integration of ODE
 
 %Part (f): Solve for A(t) for (0 <= t <= 30) using MATLAB function ode45().
